@@ -2,8 +2,6 @@
 3
 4
 5
-6_master
-7_master
 6_dev
 7_dev
 8_dev
